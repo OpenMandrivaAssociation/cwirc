@@ -10,7 +10,6 @@ URL: http://webperso.easyconnect.fr/om.the/web/cwirc/download/
 Source: http://webperso.easyconnect.fr/om.the/web/cwirc/download/%{name}-%{version}.tar.bz2
 License: GPL
 Group: Networking/IRC
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: gtk2-devel
 Requires: xchat >= 2.0.2
 
