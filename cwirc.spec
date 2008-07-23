@@ -1,6 +1,6 @@
 %define name cwirc
 %define version 2.0.0
-%define release %mkrel 1
+%define release %mkrel 3
 
 Summary: X-Chat Morse plugin
 Name: %{name}
