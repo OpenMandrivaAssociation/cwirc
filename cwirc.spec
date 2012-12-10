@@ -44,3 +44,42 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/cwirc_frontend
 %{_libdir}/cwirc/extensions
 
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 2.0.0-5mdv2011.0
++ Revision: 617488
+- the mass rebuild of 2010.0 packages
+
+* Thu Sep 03 2009 Thierry Vignaud <tv@mandriva.org> 2.0.0-4mdv2010.0
++ Revision: 426166
+- rebuild
+
+* Wed Jul 23 2008 Thierry Vignaud <tv@mandriva.org> 2.0.0-3mdv2009.0
++ Revision: 243845
+- rebuild
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Mon Dec 17 2007 Thierry Vignaud <tv@mandriva.org> 2.0.0-1mdv2008.1
++ Revision: 123623
+- kill re-definition of %%buildroot on Pixel's request
+- import cwirc
+
+
+* Tue May 23 2006 Lenny Cartier <lenny@mandriva.com> 2.0.0-1mdk
+- 2.0.0
+
+* Thu Oct 20 2005 Lenny Cartier <lenny@mandriva.com> 1.8.8-2mdk
+- rebuild
+
+* Thu Aug 05 2004 Lenny Cartier <lenny@mandrakesoft.com> 1.8.8-1mdk
+- 1.8.8
+
+* Mon Jul 26 2004 Lenny Cartier <lenny@mandrakesoft.com> 1.8.7-1mdk
+- 1.8.7
+
+* Wed Jan 28 2004 Lenny Cartier <lenny@mandrakesoft.com> 1.7.4-1mdk
+- from P.P. Coupard <pcoupard@easyconnect.fr> :
+	- First draft of the spec file
