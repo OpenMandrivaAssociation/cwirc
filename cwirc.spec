@@ -1,7 +1,7 @@
 Summary:	X-Chat Morse plugin
 Name:		cwirc
 Version:	2.0.0
-Release:	6
+Release:	7
 License:	GPLv2+
 Group:		Networking/IRC
 Url:		http://webperso.easyconnect.fr/om.the/web/cwirc/download/
