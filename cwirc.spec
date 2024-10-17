@@ -4,7 +4,7 @@ Version:	2.0.0
 Release:	7
 License:	GPLv2+
 Group:		Networking/IRC
-Url:		http://webperso.easyconnect.fr/om.the/web/cwirc/download/
+Url:		https://webperso.easyconnect.fr/om.the/web/cwirc/download/
 Source0:	http://webperso.easyconnect.fr/om.the/web/cwirc/download/%{name}-%{version}.tar.bz2
 BuildRequires:	pkgconfig(gtk+-2.0)
 Requires:	xchat >= 2.0.2
